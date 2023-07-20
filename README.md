@@ -25,7 +25,7 @@ git clone https://github.com/himanshumahajan138/LGMVIP-DataScience-1.git
 2. Change your directory to the project folder:
 
 ```bash
-cd Himanshu_iris
+cd LGMVIP-DataScience-1/Himanshu_iris
 ```
 
 3. (Optional) Create a virtual environment and activate it (recommended):
